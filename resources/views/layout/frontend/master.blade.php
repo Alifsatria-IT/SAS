@@ -419,7 +419,7 @@
                                     <p class="caption">RECEIVE NEWS OF TJOKRO HOTEL</p>
                                 </div>
                                 <div class="widget-content">
-                                    <form action="https://envato.megadrupal.com/html/caruso/subscribe" method="post">
+                                    <form action="" method="post">
                                         <div class="input-group custom">
                                             <input type="email" name="email" value="" placeholder="Enter your email address...">
                                             <button type="submit" class="btn-subscribe"><span class="icon-arrow"></span></button>
@@ -432,7 +432,7 @@
                         <div class="foot-credit pt-3 pb-3">
                             <div class="row">
                                 <div class="col-sm-12 col-xs-12">
-                                    <h6 class="text-center">Copyright © 2015 | Caruso Eco Hotel</h6>
+                                    <h6 class="text-center">Copyright © 2019 | SAS Hospitality</h6>
                                 </div>
                             </div>
                         </div>

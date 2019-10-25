@@ -1,111 +1,9 @@
 @charset "UTF-8";
-/*------------------------------------------------------------------------
-# Caruso Theme
-# HTML by CrazyRacer
-# ------------------------------------------------------------------------
 
-	1.	Base
-		+ Body
-		+ Outline
-		+ Typography
-		+ Input, Textarea, Select
-		+ List-table
-		+ Media
-		+ Section
-		+ Border
-		+ Custom Container
-
-	2.	Frame
-		+ Background
-		+ Display
-		+ Float
-		+ Overflow
-		+ Position
-		+ Font
-		+ Padding
-		+ Margin
-		+ Z-index
-
-	3.	Component
-		+ Owlcarousel
-		+ Fixed Top
-		+ Pagination
-		+ Modal
-		+ Social
-		+ Widget
-		+ Comment
-		+ Google Map
-		+ Custom Magnific Popup (Gallery)
-	 	+ Accordion
-	 	+ Button
-	 	+ Selectbox
-	 	+ Date Range Picker
-	 	+ Book check Form
-	 	+ Effect
-
-	4.	Layout
-		+ Header
-		+ Home-media
-		+ Group Text
-		+ Flipbook
-		+ Guest-book
-		+ News
-		+ Categories
-		+ Top-foot
-		+ Footer
-		+ Sub banner
-		+ Book Contact
-		+ Schedule
-		+ Event
-		+ Reserve
-		- Room Detail
-			+ Accommodation
-			+ Room Infomation
-			+ Slider Check
-
-	5.	Pages
-		+ Room & Rates
-			- Room Page
-			- Room Simple
-			- Room List
-			- Room Grid
-			- Room Modem
-			- Room Thumbnail
-		+ Blog
-			- Blog
-			- Blog Have Event
-			- Blog Detail
-			- Format
-		+ Gallery
-		+ Guestbook
-		+ Coming Soon
-		+ About
-		+ Package
-		+ Event
-		+ Event Detail
-		+ 404
-		+ Spa
-		+ Contact
-		+ Activity
-		+ Attraction
-		+ Reservation
-		+ Shortcode
-
-	6. Themes
-		+ Preload
-		+ Responsive
-
-*/
-/* COLOR
-*******/
-/* FONT
-*******/
 .robo-font {
   font-family: "Roboto", sans-serif !important;
 }
 
-/* 1.	Base
--------------------------------*/
 body {
   position: relative;
   font-family: "Roboto", sans-serif;
@@ -5956,7 +5854,7 @@ select.local-select + .select2.select2-container--open .select2-selection--singl
   color: #6d6d6d;
   font-size: 13px;
   font-weight: 400;
-  margin: 0;
+  margin: -32px;
 }
 
 .footer .foot-credit ul.checkout-list li {
